@@ -2,11 +2,15 @@
 
 Curso de Laravel pela Alura conceitos básicos
 
-# Tecnologias
+
+### Tecnologias
+
 
 - Laravel
 
-# Como usar
+
+### Como usar
+
 
 Faça o clone do repositório </br>
 
