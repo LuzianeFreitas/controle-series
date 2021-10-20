@@ -29,3 +29,5 @@ class CriarTabelaSeries extends Migration
         Schema::drop('series');
     }
 }
+
+
